@@ -1,7 +1,8 @@
 streamlit
+numpy<2
 pandas
-numpy
 scikit-learn
 joblib
 sentence-transformers
 torch
+transformers
