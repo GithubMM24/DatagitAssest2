@@ -1,4 +1,7 @@
-pip install pandas
-pip install re
-pip install --force joblib
-pip install sentence_transformers
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+sentence-transformers
+torch
